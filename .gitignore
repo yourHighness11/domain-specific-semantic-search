@@ -1,0 +1,6 @@
+.env
+/pdf_embedder/.ipynb_checkpoints
+/pdf_embedder/__pycache__
+/backend/__pycache__
+/pdf_embedder/pdfs
+/pdf_embedder/pdfs_lite
